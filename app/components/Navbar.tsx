@@ -25,6 +25,11 @@ const Navbar = () => {
         className="flex flex-row items-center"
       >
         <SocialIcon
+          url="https://github.com/shinasvb19"
+          fgColor="grey"
+          bgColor="transparent"
+        />
+        <SocialIcon
           url="https://www.linkedin.com/in/shinas-vb-88a307251/"
           fgColor="grey"
           bgColor="transparent"
