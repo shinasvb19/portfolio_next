@@ -54,7 +54,7 @@ const Navbar = () => {
         transition={{
           duration: 1.5,
         }}
-        className="flex flex-row items-center text-grey-300 cursor-pointer"
+        className="flex flex-row items-center text-gray-300 cursor-pointer"
       >
         <SocialIcon
           className="cursor-pointer"
@@ -62,7 +62,7 @@ const Navbar = () => {
           fgColor="grey"
           bgColor="transparent"
         />
-        <p className="hidden md:inline-flex text-grey-400 text-sm uppercase">
+        <p className="hidden md:inline-flex text-gray-400 text-sm uppercase">
           Get in touch
         </p>
       </motion.div>
